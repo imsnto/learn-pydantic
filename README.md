@@ -1,4 +1,4 @@
-# Learn Pydantic 
+# Learn Pydantic
 
 This project demonstrates the use of Pydantic for data validation and settings management in Python. It includes a `User` model with custom validation and a `Settings` class for environment-based configuration.
 
